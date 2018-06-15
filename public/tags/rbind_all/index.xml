@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rbind_all on A Hugo website</title>
+    <link>/tags/rbind_all/</link>
+    <description>Recent content in Rbind_all on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rbind_all/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Import and merge multiple CSV files into one dataset</title>
+      <link>/2018/01/10/import-and-merge-multiple-csv-files-into-one-dataset/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/10/import-and-merge-multiple-csv-files-into-one-dataset/</guid>
+      <description>A simple task Sounds like a simple task. You have multiple CSV files in a folder. You want to import each of them into your environment but into a single data frame. Here is the challenge: most new R users have only used read.csv() to import single files. I remember, when I was an R beginner, the very first time when I wanted to import a whole bunch of CSV files, the task of running read.</description>
+    </item>
+    
+  </channel>
+</rss>
